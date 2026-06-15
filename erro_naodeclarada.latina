@@ -1,0 +1,4 @@
+initium
+  integer a;
+  a = b + 1;
+finis

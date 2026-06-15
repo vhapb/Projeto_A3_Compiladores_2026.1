@@ -1,0 +1,37 @@
+initium
+  textus mensagem;
+  integer a, b;
+  realis media;
+  logicus aprovado;
+
+  mensagem = "Digite dois numeros";
+  scribe(mensagem);
+
+  lege(a);
+  lege(b);
+
+  media = (a + b) / 2;
+
+  si (media >= 7) {
+    aprovado = verum;
+    scribe("Aprovado");
+  } aliter {
+    aprovado = falsum;
+    scribe("Reprovado");
+  }
+
+  integer i;
+  pro (i = 0; i < a; i = i + 1) {
+    scribe(i);
+  }
+
+  dum (b > 0) {
+    scribe(b);
+    b = b - 1;
+  }
+
+  fac {
+    scribe(a);
+    a = a - 1;
+  } dum (a > 0);
+finis

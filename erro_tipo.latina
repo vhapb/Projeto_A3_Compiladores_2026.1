@@ -1,0 +1,4 @@
+initium
+  integer x;
+  x = "ola";
+finis
