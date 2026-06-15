@@ -7,8 +7,6 @@ Transpilador de uma linguagem própria, com vocabulário em **Latim** (*Latina*)
 
 ## Componentes do grupo
 
-> *Preencher com os nomes e matrículas dos integrantes:*
-
 - Vitor Hugo Almeida Passos Braga — RA: 12724145826
 - Marcelo Silva do Carmo Filho - RA: 1272323017
 
